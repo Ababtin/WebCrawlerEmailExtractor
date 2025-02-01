@@ -1,4 +1,3 @@
-# WebCrawlerEmailExtractor
 
 # Web Crawler Email Extractor
 
